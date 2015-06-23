@@ -1,0 +1,4 @@
+vk:
+  requestsPerSecond: 3
+  fatalChance: 0.01
+  blockChance: 20
